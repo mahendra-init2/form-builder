@@ -1,0 +1,39 @@
+{
+  "name": "react-form-builder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "formBuilder": "3.8.3",
+    "jquery": "^3.6.3",
+    "react": "16.8.6",
+    "react-dom": "16.8.6",
+    "react-form-builder2": "0.14.2",
+    "react-formio": "4.3.0",
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "typescript": "3.8.3"
+  },
+  "scripts": {
+    "start": "react-scripts --openssl-legacy-provider start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
